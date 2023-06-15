@@ -42,7 +42,7 @@ connectButton.onclick = async () => {
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({
-      source_url: 'https://d-id-public-bucket.s3.amazonaws.com/or-roman.jpg',
+      source_url: 'https://i.imgur.com/6l4e3OI.jpg',
     }),
   });
 
